@@ -1,0 +1,20 @@
+[
+  {
+    "image": "brifImages/tiktokImage.png",
+    "header": "TikTok 解析器",
+    "title": "建立一個 TikTok 解析器，用於將資料收集到表中：使用者的使用者名稱、個人資料連結、使用者名稱、追蹤者數量等。",
+    "link": "https://docs.google.com/document/d/1VM8DLJF4tlzUKM1-23w_nVympcqkeKMLN1x3pko2S7o/edit"
+  },
+  {
+    "image": "brifImages/yandex.png",
+    "header": "Yandex.Dzen 解析器",
+    "title": "為三種類型的 Yandex Dzen 結果建立 JS 解析器：頻道、影片、文章 - 它根據搜尋查詢將找到的材料及其參數的連結保存在 CSV 檔案中。",
+    "link": "https://docs.google.com/document/d/1aL5G80czxtZPV5Z1tbKpWnOdYJxS0QXBz8qj81wE4TQ/edit"
+  },
+  {
+    "image": "brifImages/a.jpeg",
+    "header": "Ahrefs 刪除搜尋解析器",
+    "title": "預設用於透過關鍵字在 Google 中搜尋唯一網域、使用 Ahrefs 解析器取得參數和流量資料、檢查索引頁面以及 Google 中的 TOP5 片段。",
+    "link": "https://docs.google.com/document/d/1hcY1GG_cN9upALf65ptUqQRewCqZMyLwIkFrV4IneTo/edit"
+  }
+]

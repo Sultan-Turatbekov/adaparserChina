@@ -1,8 +1,8 @@
 import {Link} from "react-router-dom";
 import  adaUseEN  from '../../../common/Header/adaUseEN.json';
-import  adaUseDE  from '../../../common/Header/adaUseDE.json';
+import  adaUseCH  from '../../../common/Header/adaUseCH.json';
 import  resourcesEN  from '../../../common/Header/resourcesEN.json';
-import  resourcesDE  from '../../../common/Header/resourcesDE.json';
+import  resourcesCH  from '../../../common/Header/resourcesCH.json';
 import styles from './BurgerMenu.module.scss';
 import { useTranslation } from "react-i18next";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -27,8 +27,8 @@ import {
 
 export const BurgerMenu = () => {
     const {t,i18n}=useTranslation();
-    const header = i18n.language === 'en' ? adaUseEN : adaUseDE;
-    const resource = i18n.language === 'en' ? resourcesEN : resourcesDE;
+    const header = i18n.language === 'en' ? adaUseEN : adaUseCH;
+    const resource = i18n.language === 'en' ? resourcesEN : resourcesCH;
     return(
         <div className={styles.BurgerMenu}>
             <Sheet>

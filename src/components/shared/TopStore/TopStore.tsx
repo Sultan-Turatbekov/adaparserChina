@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import topStoreEN from './topStoreEN.json'
-import topStoreDE from './topStoreDE.json';
+import topStoreCH from './topStoreCH.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
@@ -8,7 +8,7 @@ import styles from './styles.module.scss';
 
 function TopStore() {
     const { t, i18n } = useTranslation();
-    const topStore = i18n.language === 'en' ? topStoreEN : topStoreDE;
+    const topStore = i18n.language === 'en' ? topStoreEN : topStoreCH;
 
     return (
         <div className={styles.topStore}>

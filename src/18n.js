@@ -5,7 +5,7 @@ import { initReactI18next } from 'react-i18next';
 
 
 i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
-    fallbackLng:'gr',
+    fallbackLng:'ch',
     debug:true,
     detection:{
         order:['queryString','cookie'],

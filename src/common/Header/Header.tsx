@@ -1,10 +1,26 @@
+import React from "react";
 import {Link} from "react-router-dom";
 import  adaUseEN  from './adaUseEN.json';
-import  adaUseDE  from './adaUseDE.json';
+import  adaUseCH  from './adaUseCH.json';
 import  resourcesEN  from './resourcesEN.json';
-import  resourcesDE  from './resourcesDE.json';
+import  resourcesCH  from './resourcesCH.json';
 import { BurgerMenu } from "../../components/shared/burgerMenu/BurgerMenu";
 import styles from './Header.module.scss';
+
+
+
+import { Button } from "@/src/components/ui/button"
+
+
+import {
+    DropdownMenu,
+    DropdownMenuContent,
+    
+    DropdownMenuRadioGroup,
+    DropdownMenuRadioItem,
+    DropdownMenuTrigger,
+  } from "@/src/components/ui/dropdown-menu"
+
 
 
 import {
@@ -19,13 +35,16 @@ import {
 
   export const Header = () => {
 
+    const [position, setPosition] = React.useState("bottom")
+ 
+
     const {t,i18n}=useTranslation();
     const changeLanguage = (language:string)=>{
         i18n.changeLanguage(language);
         localStorage.setItem('nextlocal', language)
     }
-    const header = i18n.language === 'en' ? adaUseEN : adaUseDE;
-    const resource = i18n.language === 'en' ? resourcesEN : resourcesDE;
+    const header = i18n.language === 'en' ? adaUseEN : adaUseCH;
+    const resource = i18n.language === 'en' ? resourcesEN : resourcesCH;
     return (
         <header className={`${styles.full_bleed }`}>
             <div className={styles.header_container}>
@@ -78,10 +97,31 @@ import {
                 <div className={styles.header_logo_media}>
                     <img src="/logoWi.svg" alt="" />
                 </div>
+
+
+
+
                 
-                <button className={styles.multiLanguage} onClick={()=>changeLanguage("en")}>EN</button>
-                <button className={styles.multiLanguage} onClick={()=>changeLanguage("gr")}>GR</button>
+
                 
+                <div className="mt-[19px]">
+                <DropdownMenu>
+                    <DropdownMenuTrigger asChild>
+                    <Button variant="outline">{i18n.language.toUpperCase()}</Button>
+                    </DropdownMenuTrigger>
+                    <DropdownMenuContent className="w-[40px]">
+                    
+                    <DropdownMenuRadioGroup value={position} onValueChange={setPosition}>
+                        <DropdownMenuRadioItem onClick={()=>changeLanguage("en")} value="top">EN</DropdownMenuRadioItem>
+                        <DropdownMenuRadioItem onClick={()=>changeLanguage("ch")} value="bottom">CH</DropdownMenuRadioItem>
+                    </DropdownMenuRadioGroup>
+                    </DropdownMenuContent>
+                </DropdownMenu>
+                </div>
+                
+                
+
+
             </div>
             
         </header>

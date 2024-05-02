@@ -1,12 +1,12 @@
 [{
     "img": "headerImages/doc.svg",
     "subtitle": "WhatsApp",
-    "text": "Chat für Benutzer und Support",
+    "text": "聊天尋求用戶和支持",
     "link": "#"
     },
     {
     "img": "headerImages/telegram.svg",
     "subtitle": "Telegramm-Chat",
-    "text": "Chat für Benutzer und Support",
+    "text": "聊天尋求用戶和支持",
     "link": "#"
     }]

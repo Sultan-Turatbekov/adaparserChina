@@ -1,0 +1,26 @@
+[
+    {
+        "img": "headerImages/seo.png",
+        "subtitle": "SEO 專家和工作室",
+        "text": "收集 SEO 指標、搜尋查詢和建議、搜尋結果中的所有數據",
+        "link": "seo"
+    },
+    {
+        "img": "headerImages/bisness.png",
+        "subtitle": "商业和自由职业者",
+        "text": "自动化常规流程。创建自己的SaaS服务",
+        "link": "business"
+    },
+    {
+        "img": "headerImages/onlineStore.png",
+        "subtitle": "網上商店",
+        "text": "解析市場和線上商店，價格監控，填寫您自己的商店“連結”：“線上商店”",
+        "link": "onlinestores"
+    },
+    {
+        "img": "headerImages/marketings.png",
+        "subtitle": "行銷人員和分析師",
+        "text": "市場研究、搜尋引擎結果、資料收集",
+        "link": "marketers"
+    }
+]

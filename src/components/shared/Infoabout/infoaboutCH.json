@@ -1,0 +1,17 @@
+[
+    {
+        "img": "aboutinfo/marketing.svg",
+        "subtitle": "行銷",
+        "text": "從網站收集聯絡資訊。從論壇、公告牌中提取電話號碼、電子郵件，並從 Google 地圖獲取資料"
+    },
+    {
+        "img": "aboutinfo/bisnes.svg",
+        "subtitle": "商業",
+        "text": "在您的業務流程中使用 A-Parser 自動執行任何複雜性的任務。建立您自己的 SaaS 服務"
+    },
+    {
+        "img": "aboutinfo/comer.svg",
+        "subtitle": "電子商務",
+        "text": "分析您需要的線上商店的產品卡。收集並分析競爭對手的價格"
+    }
+]

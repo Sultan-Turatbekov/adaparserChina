@@ -1,10 +1,10 @@
 import styles from "./styles.module.scss"
 import { useTranslation } from "react-i18next"
 import infoAboutEN from './infoaboutEN.json'
-import infoaboutDE from './infoaboutDE.json';
+import infoaboutCH from './infoaboutCH.json';
 function Infoabout() {
   const { t, i18n } = useTranslation();
-  const infoabout = i18n.language === 'en' ? infoAboutEN : infoaboutDE;
+  const infoabout = i18n.language === 'en' ? infoAboutEN : infoaboutCH;
   return (
     <div className={styles.schemeOfWork_info_conteiner}>
         {infoabout.map((item,index)=>(

@@ -1,0 +1,62 @@
+[
+    {
+        "img": "searchParsing/link.svg",
+        "title": "連結、錨點與片段",
+        "text": "大規模解析自然搜尋結果。結果，您會收到結構化文件"
+    },
+    {
+        "img": "searchParsing/addParsing.png",
+        "title": "解析廣告塊",
+        "text": "收集廣告區塊中的所有數據，包括搜尋結果頁面上的位置"
+    },
+    {
+        "img": "searchParsing/parsinGeo.png",
+        "title": "透過GEO解析",
+        "text": "解析 Ahrefs 排名和網域評級、反向連結和網域、TOP100 反向連結"
+    },
+    {
+        "img": "searchParsing/competitionKey.svg",
+        "title": "關鍵字大賽",
+        "text": "作為解析結果，使用者收到有關查詢的搜尋結果中結果數量的資料"
+    },
+    {
+        "img": "searchParsing/blokParsing.svg",
+        "title": "相關關鍵字區塊解析",
+        "text": "解析具有相關搜尋查詢的區塊以及深入解析它們的能力"
+    },
+    {
+        "img": "searchParsing/mobileAndDesktop.png",
+        "title": "行動與桌面搜尋結果",
+        "text": "結果因裝置而異 A-Parser 支援這兩個選項"
+    },
+    {
+        "img": "searchParsing/saportOperator.png",
+        "title": "對搜尋運算子的支援",
+        "text": "支援所有搜尋運算子以擴展解析能力"
+    },
+    {
+        "img": "searchParsing/maxdeep.png",
+        "title": "最大解析深度",
+        "text": "導航搜尋結果所有頁面並自動繞過限制以取得所有結果"
+    },
+    {
+        "img": "searchParsing/newsParsing.png",
+        "title": "解析新聞結果",
+        "text": "此類資料的收集：文章連結、標題、新聞簡短內容和更新日期"
+    },
+    {
+        "img": "searchParsing/toch.svg",
+        "title": "拼字錯誤偵測",
+        "text": "解析器決定搜尋引擎是否將收到的查詢視為拼字錯誤"
+    },
+    {
+        "img": "searchParsing/sortedBy.png",
+        "title": "依日期對結果排序",
+        "text": "支援依日期排序功能，收集最新的搜尋結果"
+    },
+    {
+        "img": "searchParsing/vozmo.png",
+        "title": "驗證碼繞過能力",
+        "text": "支援所有流行的識別服務，以及與 XEvil 和 CapMonster 的整合"
+    }
+]

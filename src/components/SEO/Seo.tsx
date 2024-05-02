@@ -1,14 +1,14 @@
 import seoDataJson from "./seoDataJson.json"
 import AllEnterLink from "../shared/AllEnterLink/AllEnterLink"
 import seoEN from './seoEN.json'
-import seoDE from './seoDE.json'
+import seoCH from './seoCH.json'
 import styles from "./style.module.scss"
 import {AllParsings} from "@/src/components/shared/AllParsings/AllParsing.tsx";
 import Infoabout from "../shared/Infoabout/Infoabout";
 import { useTranslation } from "react-i18next";
 function Seo() {
   const [t,i18n]=useTranslation();
-  const seo = i18n.language === 'en' ?seoEN : seoDE;
+  const seo = i18n.language === 'en' ?seoEN : seoCH;
   return (
     <div>
     <AllEnterLink dataJson={seoDataJson}/>

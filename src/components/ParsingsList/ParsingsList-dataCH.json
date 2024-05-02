@@ -1,0 +1,223 @@
+[
+  {
+    "category": "search_systems",
+    "title": "搜尋引擎解析器",
+    "specification": "所有來自搜尋引擎結果的資料：連結、錨點、片段、來自廣告結果的資料、其他搜尋查詢區塊",
+    "data": [
+      {
+        "img": "allParsingsIco/google_ico.png",
+        "標題": "SE::Google",
+        "description": "Google 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/yandex_ico.png",
+        "標題": "SE::Yandex",
+        "description": "Yandex 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/bing_ico.png",
+        "標題": "SE::Bing",
+        "description": "Bing 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/youtube_ico.png",
+        "標題": "SE::YouTube",
+        "description": "YouTube 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/yahoo_ico.png",
+        "title": "SE::雅虎",
+        "description": "雅虎搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/duckduckgo_circle_ico.jpg",
+        "title": "SE::DuckDuckGo",
+        "description": "DuckDuckGo 搜尋結果解析器"
+      }
+    ]
+  },
+  {
+    "category": "settings",
+    "title": "參數解析器",
+      "specification": "SEO 網域指標、網域歷史檢查、流量評估、反向連結及其他參數的收集",
+      "data": [
+        {
+          "img": "allParsingsIco/ahref.jpeg",
+          "title": "排名::Ahrefs",
+          "description": "ahrefs.com 解析器"
+        },
+        {
+          "img": "allParsingsIco/keysso_ico.png",
+          "title": "Rank::KeysSo",
+          "description": "keys.so 服務的解析器"
+        },
+        {
+          "img": "allParsingsIco/curlie_ico.png",
+          "title": "排名::柯利",
+          "description": "curlie.org 目錄的解析器"
+        },
+        {
+          "img": "allParsingsIco/moz_ico.png",
+          "title": "排名::MOZ",
+          "description": "moz.com 服務解析器"
+        },
+        {
+          "img": "allParsingsIco/ip_ico.jpeg",
+          "title": "SecurityTrails::IP",
+          "description": "依 IP 收集網域名稱及其相關資訊"
+        },
+        {
+          "img": "allParsingsIco/majestic_ico.png",
+          "title": "排名::MajesticSEO",
+          "description": "來自 majesticseo.com 服務的反向連結數量的解析器"
+        },
+        {
+          "img": "allParsingsIco/social_signal_ico.png",
+          "title": "排名::社交::訊號",
+          "description": "社交訊號解析器"
+        },
+        {
+          "img": "allParsingsIco/dns_ico.png",
+          "標題": "網路::DNS",
+          "description": "解析器將網域解析為 IP 位址"
+        }
+      ]
+  },
+  {
+    "category": "organization",
+    "title": "組織解析器",
+    "specification": "收集聯絡資料：組織名稱、地址和座標、評級、評論數量、網站、電話等",
+    "data": [
+      {
+        "img": "allParsingsIco/googlemap_ico.png",
+        "title": "地圖::Google",
+        "description": "Google 地圖解析器"
+      },
+      {
+        "img": "allParsingsIco/yandex_ico.png",
+        "title": "地圖::Yandex",
+        "description": "Yandex 地圖解析器"
+      }
+    ]
+  },
+  {
+    "category": "marketplaces",
+    "title": "市場解析器",
+    "specification": "從產品卡、產品連結、價格變化監控、評級、評論等收集資訊",
+    "data": [
+      {
+        "img": "allParsingsIco/amazon_ico.jpeg",
+        "title": "商店::亞馬遜",
+        "description": "amazon.com 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/yandex_ico.png",
+        "title": "商店::Yandex 市場",
+        "description": "Yandex.Market 解析器"
+      },
+      {
+        "img": "allParsingsIco/aliexpress_ico.png",
+        "title": "商店::速賣通",
+        "description": "AliExpress 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/wildberry_ico.png",
+        "title": "商店::Wildberry 產品資訊",
+        "description": "Wildberry 產品頁面解析器"
+      },
+      {
+        "img": "allParsingsIco/wildberry_ico.png",
+        "title": "商店::野莓產品列表",
+        "description": "Wildberry 產品列表解析器"
+      },
+      {
+        "img": "allParsingsIco/ebay_ico.png",
+        "title": "商店::eBay",
+        "description": "eBay 搜尋結果解析器"
+      }
+    ]
+  },
+  {
+    "category": "services",
+    "title": "各种服务解析器",
+    "specification": "图像解析器、文本翻译解析器、社交网络和信使解析器（Instagram、Telegram）等",
+    "data": [
+      {
+        "img": "allParsingsIco/youtube_ico.png",
+        "標題": "SE::YouTube::影片",
+        "description": "YouTube 影片資料解析器"
+      },
+      {
+        "img": "allParsingsIco/google_ico.png",
+        "title": "SE::Google::快取",
+        "description": "Google 快取頁面的解析器"
+      },
+      {
+        "img": "allParsingsIco/telegram_ico.png",
+        "title": "電報::GroupScraper",
+        "description": "Telegram 中公共群組資料的解析器"
+      },
+      {
+        "img": "allParsingsIco/pinterest_ico.png",
+        "標題": "SE::Pinterest",
+        "description": "Pinterest 搜尋結果解析器"
+      },
+      {
+        "img": "allParsingsIco/instagram_ico.png",
+        "title": "社交::Instagram 個人檔案",
+        "description": "Instagram 個人資料資料的解析器"
+      },
+      {
+        "img": "allParsingsIco/instagram_ico.png",
+        "title": "社交::Instagram 標籤",
+        "description": "Instagram 上標籤貼文的解析器"
+      },
+      {
+        "img": "allParsingsIco/instagram_ico.png",
+        "title": "社交::Instagram Geo",
+        "description": "Instagram 上指定位置貼文的解析器"
+      },
+      {
+        "img": "allParsingsIco/googleplay_ico.png",
+        "title": "GooglePlay::Apps",
+        "description": "Google Play 應用解析器"
+      },
+      {
+        "img": "allParsingsIco/ping_ico.jpeg",
+        "標題": "SEO::Ping",
+        "description": "批次發送 Ping 請求"
+      },
+      {
+        "img": "allParsingsIco/recaptcha_ico.png",
+        "title": "Util::ReCaptcha2",
+        "description": "用來辨識 reCAPTCHA 的解析器"
+      },
+      {
+        "img": "allParsingsIco/anti_ico.jpg",
+        "title": "Util::AntiGate",
+        "description": "透過支援 AntiGate API 的服務進行驗證碼識別"
+      },
+      {
+        "img": "allParsingsIco/g_photo_ico.png",
+        "title": "SE::Google 圖片",
+        "description": "Google 圖片關鍵字解析器"
+      },
+      {
+        "img": "allParsingsIco/y_translate_ico.png",
+        "title": "SE::Yandex 翻譯",
+        "description": "透過 Yandex 翻譯器翻譯文字"
+      },
+      {
+        "img": "allParsingsIco/g_translate_ico.jpeg",
+        "title": "SE::Google翻譯",
+        "description": "透過 Google 服務翻譯"
+      },
+      {
+        "img": "allParsingsIco/yandex_mail_ico.png",
+        "title": "SE::Yandex 註冊",
+        "description": "自動註冊 Yandex 帳戶"
+      }
+    ]
+  }
+]
+  

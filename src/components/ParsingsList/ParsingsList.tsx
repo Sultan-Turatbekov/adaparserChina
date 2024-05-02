@@ -1,4 +1,4 @@
-import parsingDE from "@/src/components/ParsingsList/ParsingsList-dataDE.json";
+import parsingCH from "@/src/components/ParsingsList/ParsingsList-dataCH.json";
 import parsingEN from "@/src/components/ParsingsList/ParsingsList-dataEN.json";
 import { ParsingListTypes } from "@/src/types/parsingListTypes.ts";
 import { AllParsingsType } from "@/src/types/allParsingsType.ts";
@@ -6,7 +6,7 @@ import {ParsingsListItem} from "@/src/components/shared/ParsingsListItems/Parsin
 import { useTranslation } from "react-i18next"
 export const ParsingsList = () => {
     const { t, i18n } = useTranslation();
-    const parsinglist = i18n.language === 'en' ? parsingEN : parsingDE;
+    const parsinglist = i18n.language === 'en' ? parsingEN : parsingCH;
     return (
         <div>
             {

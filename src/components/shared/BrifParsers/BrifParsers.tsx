@@ -1,11 +1,11 @@
 import brifparsersEN from './brifparsersEN.json';
-import brifparsersDE from './brifparsersDE.json';
+import brifparsersCH from './brifparsersCH.json';
 import { BrifparsingType } from "@/src/types/brifparsingType.ts";
 import { useTranslation } from 'react-i18next';
 
 export const BrifParsers = () => {
     const { t, i18n } = useTranslation();
-    const brifparsers = i18n.language === 'en' ? brifparsersEN : brifparsersDE;
+    const brifparsers = i18n.language === 'en' ? brifparsersEN : brifparsersCH;
     return (
         <div className="">
 

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Amazon.com 解析器",
+        "text": "監控產品價格，從產品卡收集全面信息，追蹤折扣，分析產品受歡迎程度",
+        "img": "topStore/amazon.png",
+        "link": "#"
+    },
+    {
+        "title": "Yandex.Market 解析器",
+        "text": "對頂級產品聚合器之一進行解析。您可以透過搜尋查詢清單或特定類別來解析產品",
+        "img": "topStore/yandexmarket.png",
+        "link": "#"
+    },
+    {
+        "title": "速賣通解析器",
+        "text": "從最受歡迎的市場之一收集數據，追蹤您感興趣的產品的價格、評級和評論數量",
+        "img": "topStore/速賣通.png",
+        "link": "#"
+    },
+    {
+        "title": "Ebay 解析器",
+        "text": "輸入查詢清單並以結構化格式取得所需的資料。監控價格並從產品卡收集所有資料",
+        "img": "topStore/ebay.png",
+        "link": "#"
+    }
+]
