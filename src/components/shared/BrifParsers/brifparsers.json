@@ -1,0 +1,21 @@
+
+[
+  {
+    "image": "brifImages/tiktokImage.png",
+    "header": "Парсер TikTok",
+    "title": "Создание парсера TikTok для сбора данных в таблицу: юзернейм пользователя, ссылка на профиль, имя пользователя, количество подписчиков и др.",
+    "link": "https://docs.google.com/document/d/1VM8DLJF4tlzUKM1-23w_nVympcqkeKMLN1x3pko2S7o/edit"
+  },
+  {
+    "image": "brifImages/yandex.png",
+    "header": "Парсер Яндекс.Дзен",
+    "title": "Создание JS-парсера по трем типам выдачи Яндекс Дзен: каналам, видео, статьям - который по поисковым запросам сохраняет ссылки на найденные материалы и их параметров в CSV-файл",
+    "link": "https://docs.google.com/document/d/1aL5G80czxtZPV5Z1tbKpWnOdYJxS0QXBz8qj81wE4TQ/edit"
+  },
+  {
+    "image": "brifImages/a.jpeg",
+    "header": "Парсер поиска дропов с Ahrefs",
+    "title": "Пресет для поиска уникальных доменов в Google по ключам, получение параметров и данных трафика с помощью парсеров Ahrefs, проверка проиндексированных страниц и TOP5 сниппетов в Google.",
+    "link": "https://docs.google.com/document/d/1hcY1GG_cN9upALf65ptUqQRewCqZMyLwIkFrV4IneTo/edit"
+  }
+]

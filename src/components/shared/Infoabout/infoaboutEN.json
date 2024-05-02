@@ -1,0 +1,17 @@
+[
+    {
+        "img": "aboutinfo/marketing.svg",
+        "subtitle": "Marketing",
+        "text": "Collect contact information from websites. Extract phone numbers, emails from forums, bulletin boards, and get data from Google Maps"
+    },
+    {
+        "img": "aboutinfo/bisnes.svg",
+        "subtitle": "Business",
+        "text": "Use A-Parser in your business processes, automating tasks of any complexity. Create your own SaaS services"
+    },
+    {
+        "img": "aboutinfo/comer.svg",
+        "subtitle": "E-commerce",
+        "text": "Analyze product cards from online stores you need. Collect and analyze prices of your competitors"
+    }
+]

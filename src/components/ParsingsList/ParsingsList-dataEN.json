@@ -1,0 +1,223 @@
+[
+    {
+      "category": "search_systems",
+      "title": "Search Engine Parsers",
+      "specification": "All data from search engine results: links, anchors, snippets, data from advertising results, additional search query blocks",
+      "data": [
+        {
+          "img": "allParsingsIco/google_ico.png",
+          "title": "SE::Google",
+          "description": "Parser for Google search results"
+        },
+        {
+          "img": "allParsingsIco/yandex_ico.png",
+          "title": "SE::Yandex",
+          "description": "Parser for Yandex search results"
+        },
+        {
+          "img": "allParsingsIco/bing_ico.png",
+          "title": "SE::Bing",
+          "description": "Parser for Bing search results"
+        },
+        {
+          "img": "allParsingsIco/youtube_ico.png",
+          "title": "SE::YouTube",
+          "description": "Parser for YouTube search results"
+        },
+        {
+          "img": "allParsingsIco/yahoo_ico.png",
+          "title": "SE::Yahoo",
+          "description": "Parser for Yahoo search results"
+        },
+        {
+          "img": "allParsingsIco/duckduckgo_circle_ico.jpg",
+          "title": "SE::DuckDuckGo",
+          "description": "Parser for DuckDuckGo search results"
+        }
+      ]
+    },
+    {
+      "category": "settings",
+      "title": "Parameter Parsers",
+      "specification": "Collection of SEO domain metrics, domain history checks, traffic evaluation, backlinks, and other parameters",
+      "data": [
+        {
+          "img": "allParsingsIco/ahref.jpeg",
+          "title": "Rank::Ahrefs",
+          "description": "Parser for ahrefs.com"
+        },
+        {
+          "img": "allParsingsIco/keysso_ico.png",
+          "title": "Rank::KeysSo",
+          "description": "Parser for keys.so service"
+        },
+        {
+          "img": "allParsingsIco/curlie_ico.png",
+          "title": "Rank::Curlie",
+          "description": "Parser for curlie.org directory"
+        },
+        {
+          "img": "allParsingsIco/moz_ico.png",
+          "title": "Rank::MOZ",
+          "description": "Parser for moz.com service"
+        },
+        {
+          "img": "allParsingsIco/ip_ico.jpeg",
+          "title": "SecurityTrails::IP",
+          "description": "Collects domains by IP and information about them"
+        },
+        {
+          "img": "allParsingsIco/majestic_ico.png",
+          "title": "Rank::MajesticSEO",
+          "description": "Parser for the number of backlinks from majesticseo.com service"
+        },
+        {
+          "img": "allParsingsIco/social_signal_ico.png",
+          "title": "Rank::Social::Signal",
+          "description": "Parser for social signals"
+        },
+        {
+          "img": "allParsingsIco/dns_ico.png",
+          "title": "Net::DNS",
+          "description": "Parser resolves domains into IP addresses"
+        }
+      ]
+    },
+    {
+      "category": "organization",
+      "title": "Organization Parsers",
+      "specification": "Collection of contact data: organization name, address and coordinates, rating, number of reviews, website, phone, and more",
+      "data": [
+        {
+          "img": "allParsingsIco/googlemap_ico.png",
+          "title": "Maps::Google",
+          "description": "Parser for Google Maps"
+        },
+        {
+          "img": "allParsingsIco/yandex_ico.png",
+          "title": "Maps::Yandex",
+          "description": "Parser for Yandex Maps"
+        }
+      ]
+    },
+    {
+      "category": "marketplaces",
+      "title": "Marketplace Parsers",
+      "specification": "Collection of information from product cards, links to products, monitoring of price changes, ratings, reviews, and more",
+      "data": [
+        {
+          "img": "allParsingsIco/amazon_ico.jpeg",
+          "title": "Shop::Amazon",
+          "description": "Parser for amazon.com search results"
+        },
+        {
+          "img": "allParsingsIco/yandex_ico.png",
+          "title": "Shop::Yandex Market",
+          "description": "Parser for Yandex.Market"
+        },
+        {
+          "img": "allParsingsIco/aliexpress_ico.png",
+          "title": "Shop::AliExpress",
+          "description": "Parser for AliExpress search results"
+        },
+        {
+          "img": "allParsingsIco/wildberries_ico.png",
+          "title": "Shop::Wildberries ProductInfo",
+          "description": "Parser for Wildberries product page"
+        },
+        {
+          "img": "allParsingsIco/wildberries_ico.png",
+          "title": "Shop::Wildberries ProductsList",
+          "description": "Parser for Wildberries product list"
+        },
+        {
+          "img": "allParsingsIco/ebay_ico.png",
+          "title": "Shop::eBay",
+          "description": "Parser for eBay search results"
+        }
+      ]
+    },
+    {
+      "category": "services",
+      "title": "Various Services Parsers",
+      "specification": "Image parsers, text translation parsers, social networks and messengers parsers (Instagram, Telegram), and more",
+      "data": [
+        {
+          "img": "allParsingsIco/youtube_ico.png",
+          "title": "SE::YouTube::Video",
+          "description": "Parser for YouTube video data"
+        },
+        {
+          "img": "allParsingsIco/google_ico.png",
+          "title": "SE::Google::Cache",
+          "description": "Parser for pages cached by Google"
+        },
+        {
+          "img": "allParsingsIco/telegram_ico.png",
+          "title": "Telegram::GroupScraper",
+          "description": "Parser for data from public groups in Telegram"
+        },
+        {
+          "img": "allParsingsIco/pinterest_ico.png",
+          "title": "SE::Pinterest",
+          "description": "Parser for Pinterest search results"
+        },
+        {
+          "img": "allParsingsIco/instagram_ico.png",
+          "title": "Social::Instagram Profile",
+          "description": "Parser for data from profiles on Instagram"
+        },
+        {
+          "img": "allParsingsIco/instagram_ico.png",
+          "title": "Social::Instagram Tag",
+          "description": "Parser for posts by tags on Instagram"
+        },
+        {
+          "img": "allParsingsIco/instagram_ico.png",
+          "title": "Social::Instagram Geo",
+          "description": "Parser for posts on Instagram in specified location"
+        },
+        {
+          "img": "allParsingsIco/googleplay_ico.png",
+          "title": "GooglePlay::Apps",
+          "description": "Parser for Google Play apps"
+        },
+        {
+          "img": "allParsingsIco/ping_ico.jpeg",
+          "title": "SEO::Ping",
+          "description": "Mass sending of Ping requests"
+        },
+        {
+          "img": "allParsingsIco/recaptcha_ico.png",
+          "title": "Util::ReCaptcha2",
+          "description": "Parser for recognizing reCAPTCHA"
+        },
+        {
+          "img": "allParsingsIco/anti_ico.jpg",
+          "title": "Util::AntiGate",
+          "description": "Captcha recognition through services supporting AntiGate API"
+        },
+        {
+          "img": "allParsingsIco/g_photo_ico.png",
+          "title": "SE::Google Images",
+          "description": "Parser for Google Images by keywords"
+        },
+        {
+          "img": "allParsingsIco/y_translate_ico.png",
+          "title": "SE::Yandex Translate",
+          "description": "Translates text via Yandex translator"
+        },
+        {
+          "img": "allParsingsIco/g_translate_ico.jpeg",
+          "title": "SE::Google Translate",
+          "description": "Translator through Google service"
+        },
+        {
+          "img": "allParsingsIco/yandex_mail_ico.png",
+          "title": "SE::Yandex Register",
+          "description": "Automatic registration of Yandex accounts"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,145 @@
+.seo{
+    padding: 50px 15px;
+    .seo_title{
+        font-size: clamp(25px, 5vw, 40px);
+        text-align: center;
+        margin-bottom: 55px;
+        font-weight: 600;
+        line-height: 40px;
+    }
+    .seoinfo{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        .seoinfo_conteiner{
+             width: clamp(300px, 50%, 400px);
+             margin-bottom: 25px;
+            border-radius: 15px;
+        }
+        .seoinfo_img{
+            height: 60px;
+            margin-bottom: 25px;
+        }
+        .seoinfo_title{
+            font-size: 25px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        .seoinfo_text{
+            font-size: 18px;
+        }
+    }
+}
+
+@media screen and (max-width:1245px) {
+    .seo{
+        .seoinfo{
+            justify-content: space-around;
+            display: flex;
+            .seoinfo_conteiner{
+                margin-bottom: 50px;
+            }
+        }
+    }
+   
+}
+
+
+.services{
+    padding: 30px 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    .services_title{
+        font-size: 40px;
+        line-height: 60px;
+        font-weight: 700;
+        font-family: "Montserrat", sans-serif;
+    }
+
+    .services_text{
+        font-size: 19px;
+        margin-top: 15px;
+        font-family: "Montserrat", sans-serif;
+
+    }
+    .services_btn{
+        margin-top: 25px;
+        color: #101820;
+        padding: 15px 20px;
+        background-color: rgba(201, 191, 176, 0.427);
+        border-radius: 15px;
+        transition: background-color 0.5s;
+        font-weight: 700;
+        &:hover{
+            color: rgb(50, 55, 59);
+            background-color: rgba(147, 140, 129, 0.427);
+    
+        }
+    }
+    .services_imgConteiner{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        img{
+            display: block;
+        }
+    }
+}
+.schemeOfWork_info_conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px 0 80px;
+    .schemeOfWork_info{
+        width: 300px;
+        padding: 10px 20px;
+        border-radius: 15px;
+        margin-top: 30px;
+        box-shadow: rgba(0, 0, 0, 0.041) 0px 4px 6px -1px, rgba(0, 0, 0, 0.041) 0px 2px 4px -1px;
+        .schemeOfWork_info_title{
+            font-size: 22px;
+            font-weight: 600;
+            margin: 10px 0 5px;
+        }
+    }
+}
+
+
+
+@media screen and (max-width: 1050px) {
+    .services{
+        padding: 50px 15px;
+        grid-template-columns: 1fr;
+        gap: 55px;
+        text-align: center;
+    }
+
+}
+@media screen and (max-width: 600px) {
+    .services{
+        .services_title{
+            font-size: 35px;
+            line-height: 40px;
+        }
+        .services_text{
+            font-size: 15px;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 400px) {
+    .services{
+        .services_title{
+            font-size: 22px;
+            line-height: 30px;
+        }
+        .services_text{
+            font-size: 13px;
+        }
+    }
+    
+}
+
+

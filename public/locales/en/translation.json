@@ -1,0 +1,142 @@
+{
+    "header":{
+    "header1":"Who uses ADA-Parser",
+    "resource":"Resources",
+    "parsers":"Parsers",
+    "service":"Services",
+    "buy":"Buy ADA-Parser"
+    },
+    "allenterLink":{
+        "title":"ADA-Parser - parser for professionals",
+        "description":"A universal parser with powerful functionality. Used by SEO companies, freelancers, SaaS services around the world",
+        "button":"Application for parsing"
+    },
+    "allparsing":{
+        "ourparser":"Our parsers",
+        "allparser":"Go to all parsers"
+    },
+    "parsingsListItem":{
+        "button":"More details"
+    }
+    ,
+    "fillbrif":{
+        "header":"Individual development of parsers",
+        "description":"We are convinced that there is no information that cannot be analyzed",
+        "briflist":{
+            "list1":"We offer customized solutions to retrieve any data from any location",
+            "list2":"We offer customized solutions to retrieve any data from any location"
+        },
+        "brifbutton":"Complete the briefing"
+    }, 
+
+    "business":{
+        "titles":{
+            "title1":"ADA-Parser can replace an entire command",
+            "title2":"Why Are We the Best at It?",
+            "title3":"Costs for Data Analysis for Your Technical Specifications"
+        },
+        "texts":{
+            "text1":"Save time and money – now you don't need a specialist team anymore to collect and analyze information. They will be successfully replaced by A-Parser",
+            "text2":"Our technical specialists conduct data analysis strictly adhering to technical specifications. The amount of data is limited only by you (according to technical specifications) or the resource from which the analysis is conducted",
+            "text3":"The price includes writing a unique preset for A-Parser that can be used in the future. It is planned to test the preset and create a result file for the customer"
+        },
+        "descriptions":{
+            "desc1":"Technical support specialists are always ready to help you solve any problem. You can also order a custom solution from us according to your requirements.",
+            "desc2":"The key advantage for you may be that in the future, you can analyze the data yourself by purchasing an A-Parser license with a preset for your task",
+            "desc3":"Costs for Data Analysis for Your Technical Specifications"
+        }
+    },
+    "topstore":{
+        "header":"Parser for products from popular online stores",
+        "description":"All parsers are regularly updated and updated. Fill your stores, track price changes, stable operation is ensured by ADA parsers",
+        "more":"More about parsing"
+    },
+    "marketers": {
+        "titles": {
+            "title1": "ADA Parser for Market Research",
+            "title2": "Market Research of Search Results with A-Parser"
+        },
+        "texts": {
+            "text1": "ADA Parser helps you gather complete and detailed information about competitors: advertising channels, the costs of their products, the range of goods and services offered",
+            "text2": "Evaluate consumer loyalty towards competitors' brands based on collected data on reviews and activities on social networks to effectively promote your brand",
+            "text3": "Collect data about users and regions where competitors are active to identify demand and growth areas",
+            "text4": "Analyze search results to the maximum depth that search engines can provide. Gather links, anchors, snippets, related keywords, and data from ad blocks",
+            "text5": "Conduct an assessment of the geo-dependency of search queries, perform a comprehensive analysis of the positions of all competitors in a specific niche, and identify commercial search queries based on advertising data",
+            "text6": "Analyze search suggestions to expand the semantic core and generate new useful and in-demand content, as well as improve the relevance of existing content"
+        }
+    },
+    
+        "seo": {
+        "titles": {
+        "title1": "Basic Functions of Parsers",
+        "title1br":"search engines",
+        "title2": "Keyword-based Position Checking"
+        },
+        "texts": {
+        "text1": "ADA Parser checks website positions based on a list of queries in Google, Yandex, Bing, and Mail.ru, and provides the ability to set parameters such as region, country, city, and language.",
+        "text2": "Batch position analysis is available for multiple domains simultaneously. You can collect statistics for your websites and evaluate positions in the search results of your competitors.",
+        "text3": "You can analyze positions using multiple methods: - Analysis as query: domain - key - Analysis as query: domain - file with a list of queries"
+        }
+    },
+    "brifparsers": {
+        "headers": {
+        "header1": "Development of Custom Parsers",
+        "header2": "Quick Guide to Creating a Parser",
+        "header3": "Examples of Technical Tasks"
+        },
+        "titles": {
+        "title1": "The ideal solution for your company. Our specialists will efficiently and quickly execute your order.",
+        "title2": "Open the Google document file and create a duplicate of the performance description (TOR) so you can make changes to the copy.",
+        "title3": "Fill out a duplicate of the technical specification file following the instructions in the parser development brief. After filling it out, send the finished technical specification or a link to it to technical support.",
+        "title4": "Use these example specifications as a guide for writing your own specifications."
+        },
+        "network": {
+        "telegram": "Send via Telegram",
+        "whatsapp": "Send via online chat",
+        "technicaltask": "Fill out the performance description"
+        },
+        "open": "Open"
+        },
+        
+    "services":{
+        "block1":{
+            "header":"Individual solutions for every problem",
+            "description":"Tremendous performance, multithreading, autonomy and configuration flexibility allow A-Parser to solve almost any task of data collection from various sources",
+            "title":"We offer tailor-made parsing solutions – you receive a unique database compiled according to your requirements"
+        },
+        "block2":{
+            "header":"Why are we the best at this?",
+            "description":"Our technical specialists carry out the data analysis in strict compliance with the technical specifications. The amount of data is limited only by you (according to the technical specifications) or the resource from which the analysis is performed",
+            "title":"The key advantage for you may be that you can analyze the data yourself in the future by purchasing an A-Parser license with a preset for your task"
+        },
+        "block3":{
+            "header":"Costs for data analysis for your technical specifications",
+            "description":"The minimum order value is $50. The exact costs will be determined after reviewing your technical specifications",
+            "title":"The price includes writing a unique preset for A-Parser that can be used in the future. It is intended to test the preset and create a results file for the customer"
+        },
+        "block4":{
+            "header":"Work schedule",
+            "description":"Data analysis services allow you to get the information you need without wasting your time"
+        }
+    },
+    "pricing":{
+            "pricingheader":"Order PARSING right now",
+            "pricinglist":{
+                "list1":"Parsing all possible information",
+                "list2":"2 months update",
+                "list3":"Support"
+            },
+            "order":"Order"
+    },
+    "footer":{
+        "footerLink1":"Terms of Use",
+        "footerLink2":"Policy and confidentiality",
+        "contacts":"Contacts",
+        "service":"Our services",
+        "instagram":" Parsing Instagram",
+        "wildberris":"Parsing Wildberries",
+        "onlineShop":"Parsing online stores",
+        "pay":"Payment Methods"
+    }
+}
+

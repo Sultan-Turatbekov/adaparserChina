@@ -1,0 +1,17 @@
+[
+    {
+        "img": "aboutinfo/marketing.svg",
+        "subtitle": "Marketing",
+        "text": "Sammeln Sie Kontaktdaten von Websites. Extrahieren Sie Telefonnummern, E-Mails von Foren, Anzeigetafeln und erhalten Sie Daten von Google Maps"
+    },
+    {
+        "img": "aboutinfo/bisnes.svg",
+        "subtitle": "Geschäft",
+        "text": "Verwenden Sie A-Parser in Ihren Geschäftsprozessen, automatisieren Sie Aufgaben jeder Komplexität. Erstellen Sie Ihre eigenen SaaS-Dienste"
+    },
+    {
+        "img": "aboutinfo/comer.svg",
+        "subtitle": "E-Commerce",
+        "text": "Analysieren Sie die Produktkarten von Online-Shops, die Sie benötigen. Sammeln und analysieren Sie die Preise Ihrer Wettbewerber"
+    }
+]

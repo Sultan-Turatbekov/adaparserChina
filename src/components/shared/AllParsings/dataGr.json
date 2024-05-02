@@ -1,0 +1,32 @@
+[
+    {
+      "img": "allParsingsIco/google_ico.png",
+      "title": "Парсер поисковой выдачи Google german",
+      "description": "Ссылки, анкоры, сниппеты, рекламные блоки, связанные ключевые слова"
+    },
+    {
+      "img": "allParsingsIco/amazon_ico.png",
+      "title": "Парсер товаров Amazon german",
+      "description": "Сбор всех данных из карточки товара: название, цена, цена без скидки, продавец, рейтиг и другое"
+    },
+    {
+      "img": "allParsingsIco/ahref.jpeg",
+      "title": "Парсер Ahrefs Backlink Checker german",
+      "description": "Парсинг Ahrefs rank и рейтинга домена, обратных ссылок и доменов, TOP100 обратных ссылок"
+    },
+    {
+      "img": "allParsingsIco/bing_ico.png",
+      "title": "Парсер поисковой выдачи Bing",
+      "description": "Ссылки, анкоры и сниппеты из выдачи, Related keywords, количество результатов по запросу"
+    },
+    {
+      "img": "allParsingsIco/duckduckgo_ico.svg",
+      "title": "Парсер поисковой выдачи DuckDuckGo",
+      "description": "Ссылки, анкоры и сниппеты из выдачи"
+    },
+    {
+      "img": "allParsingsIco/fileExtraktor_ico.png",
+      "title": "Парсер товаров Amazon",
+      "description": "Сбор всех данных из карточки товара: название, цена, цена без скидки, продавец, рейтиг и другое"
+    }
+  ]

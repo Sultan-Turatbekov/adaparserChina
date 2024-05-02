@@ -1,0 +1,146 @@
+{
+    "header":{ "header1":"Wer verwendet ADA-Parser?",
+    "resource":"Ressourcen",
+    "parsers":"Parser",
+    "service":"Dienstleistungen",
+    "buy":"ADA-Parser kaufen"
+},
+
+    "allenterLink":{
+        "title":"ADA-Parser - Parser für Profis",
+        "description":"Ein universeller Parser mit leistungsstarker Funktionalität. Wird von SEO-Unternehmen, Freiberuflern und SaaS-Diensten auf der ganzen Welt verwendet",
+        "button":"Application for parsing"
+    }, "parsingsListItem":{
+        "button":"Mehr Details"
+    },
+    "allparsing":{
+        "ourparser":"Unsere Parser",
+        "allparser":"Gehen Sie zu allen Parsern"
+    },
+   
+    "business":{
+        "titles":{
+            "title1":"ADA-Parser kann einen ganzen Befehl ersetzen",
+            "title2":"Warum sind wir darin die Besten?",
+            "title3":"Kosten für die Datenanalyse für Ihre technischen Spezifikationen"
+        },
+        "texts":{
+            "text1":"Sparen Sie Zeit und Geld – jetzt müssen Sie kein Spezialistenteam mehr mit der Sammlung und Analyse von Informationen beauftragen. Sie werden erfolgreich durch A-Parser ersetzt",
+            "text2":"Unsere technischen Spezialisten führen die Datenanalyse unter strikter Einhaltung der technischen Spezifikationen durch. Die Datenmenge wird nur durch Sie (gemäß den technischen Spezifikationen) oder die Ressource, von der aus die Analyse durchgeführt wird, begrenzt",
+            "text3":"Im Preis ist das Schreiben einer einzigartigen Voreinstellung für A-Parser enthalten, die in Zukunft verwendet werden kann. Es ist vorgesehen, die Voreinstellung zu testen und eine Ergebnisdatei für den Kunden zu erstellen"
+        },
+        "descriptions":{
+            "desc1":"Die Spezialisten des technischen Supports helfen Ihnen stets bei der Lösung jedes Problems. Sie können bei uns auch eine individuelle Lösung nach Ihren Vorgaben bestellen.",
+            "desc2":"Der entscheidende Vorteil für Sie besteht möglicherweise darin, dass Sie in Zukunft die Daten selbst analysieren können, indem Sie eine A-Parser-Lizenz mit einer Voreinstellung für Ihre Aufgabe erwerben",
+            "desc3":"Kosten für die Datenanalyse für Ihre technischen Spezifikationen"
+        }
+    },
+    "marketers":{
+        "titles":{
+            "title1":"ADA-Parser für Marktforschung",
+            "title2":"Marktforschung der Suchergebnisse mit A-Parser"
+        },
+        "texts":{
+            "text1":"ADA-Parser hilft Ihnen dabei, vollständige und detaillierte Informationen über Wettbewerber zu sammeln: Werbekanäle, die Kosten ihrer Produkte, das Waren- und Dienstleistungsangebot",
+            "text2":"Bewerten Sie die Loyalität der Verbraucher gegenüber den Marken der Konkurrenz anhand der gesammelten Daten zu Bewertungen und Aktivitäten in sozialen Netzwerken, um Ihre Marke richtig zu bewerben",
+            "text3":"Sammeln Sie Daten über Benutzer und Regionen, in denen Wettbewerber aktiv sind, um Nachfrage- und Wachstumsbereiche zu identifizieren",
+            "text4":"Analysieren Sie Suchergebnisse bis zur maximalen Tiefe, die Suchmaschinen bieten können. Sammeln Sie Links, Anker, Snippets, verwandte Schlüsselwörter und Daten aus Anzeigenblöcken",
+            "text5":"Führen Sie eine Bewertung der Geoabhängigkeit von Suchanfragen durch, führen Sie eine umfassende Analyse der Positionen aller Wettbewerber in einer bestimmten Nische durch und ermitteln Sie kommerzielle Suchanfragen anhand von Werbedaten",
+            "text6":"Analysieren Sie Suchvorschläge, um den semantischen Kern zu erweitern und neue nützliche und gefragte Inhalte zu generieren sowie die Relevanz bestehender Inhalte zu verbessern"
+        }
+    },
+    "seo":{
+        "titles":{
+            "title1":"Grundfunktionen von Parsern",
+            "title1br":"suchmaschinen",
+            "title2":"Überprüfung von Positionen anhand von Schlüsselwörtern"
+        },
+        "texts":{
+            "text1":"ADA-Parser überprüft Website-Positionen anhand einer Liste von Suchanfragen in Google, Yandex, Bing und Mail.ru und bietet die Möglichkeit, Parameter wie Region, Land, Stadt und Sprache festzulegen",
+            "text2":"Die Batch-Analyse von Positionen ist für mehrere Domänen gleichzeitig verfügbar. Sie können Statistiken sowohl für Ihre Websites sammeln als auch Positionen in den Suchergebnissen Ihrer Mitbewerber auswerten",
+            "text3":"Sie können Positionen mit mehreren Methoden analysieren: - Analyse als Anfrage: Domäne - Schlüssel - Analyse als Anfrage: Domäne - Datei mit einer Liste von Anfragen"
+             }
+    },
+    "brifparsers":{
+        "headers":{
+            "header1":"Entwicklung kundenspezifischer Parser",
+            "header2":"Kurzanleitung zum Erstellen eines Parsers",
+            "header3":"Beispiele für technische Aufgaben"
+        },
+        "titles":{
+            "title1":"Die ideale Lösung für Ihr Unternehmen. Unsere Spezialisten werden Ihre Bestellung effizient und schnell ausführen.",
+            "title2":"Öffnen Sie die Google-Dokumentdatei und erstellen Sie ein Duplikat der Leistungsbeschreibung (TOR), damit Sie Änderungen an der Kopie vornehmen können.",
+            "title3":"Füllen Sie ein Duplikat der technischen Spezifikationsdatei aus und befolgen Sie dabei die Anweisungen im Parser-Entwicklungsbrief. Senden Sie nach dem Ausfüllen die fertige technische Spezifikation oder einen Link dazu an den technischen Support",
+            "title4":"Verwenden Sie diese Beispielspezifikationen als Leitfaden zum Verfassen Ihrer eigenen Spezifikationen."
+        },
+        "network":{
+            "telegram":"An Telegram senden",
+            "whatsapp":"An Online-Chat senden",
+            "technicaltask":"Füllen Sie die Leistungsbeschreibung aus"
+        },
+        "open":"Offen"
+    },
+    "fillbrif":{
+        "header":"Individuelle Entwicklung von Parsern",
+        "description":"Wir sind davon überzeugt, dass es keine Informationen gibt, die nicht analysiert werden können",
+        "briflist":{
+            "list1":"Wir bieten maßgeschneiderte Lösungen zum Abrufen beliebiger Daten von beliebigen Standorten",
+            "list2":"Wir bieten maßgeschneiderte Lösungen zum Abrufen beliebiger Daten von beliebigen Standorten"
+        },
+        "brifbutton":"Füllen Sie das Briefing aus"
+    },
+
+    "topstore":{
+        "header":"Parser für Produkte aus beliebten Online-Shops",
+        "description":"Alle Parser werden regelmäßig aktualisiert und aktualisiert. Füllen Sie Ihre Geschäfte, verfolgen Sie Preisänderungen, ein stabiler Betrieb wird durch ADA-Parser gewährleistet",
+        "more":"Mehr zum Parsen"
+    },
+   
+    
+
+    "services":{
+        "block1":{
+            "header":"Individuelle Lösungen für jedes Problem",
+            "description":"Enorme Leistung, Multithreading, Autonomie und Konfigurationsflexibilität ermöglichen es A-Parser, nahezu jede Aufgabe der Datenerfassung aus verschiedenen Quellen zu lösen",
+            "title":"Wir bieten maßgeschneiderte Parsing-Lösungen – Sie erhalten eine einzigartige, nach Ihren Anforderungen zusammengestellte Datenbank"
+        },
+        "block2":{
+            "header":"Warum sind wir darin die Besten?",
+            "description":"Unsere technischen Spezialisten führen die Datenanalyse unter strikter Einhaltung der technischen Spezifikationen durch. Die Datenmenge wird nur durch Sie (gemäß den technischen Spezifikationen) oder die Ressource, von der aus die Analyse durchgeführt wird, begrenzt",
+            "title":"Der entscheidende Vorteil für Sie besteht möglicherweise darin, dass Sie in Zukunft die Daten selbst analysieren können, indem Sie eine A-Parser-Lizenz mit einer Voreinstellung für Ihre Aufgabe erwerben"
+        },
+        "block3":{
+            "header":"Kosten für die Datenanalyse für Ihre technischen Spezifikationen",
+            "description":"Der Mindestbestellwert beträgt 50 $. Die genauen Kosten werden nach Durchsicht Ihrer technischen Spezifikationen ermittelt",
+            "title":"Im Preis ist das Schreiben einer einzigartigen Voreinstellung für A-Parser enthalten, die in Zukunft verwendet werden kann. Es ist vorgesehen, die Voreinstellung zu testen und eine Ergebnisdatei für den Kunden zu erstellen"
+        },
+        "block4":{
+            "header":"Arbeitsplan",
+            "description":"Datenanalysedienste ermöglichen es Ihnen, die benötigten Informationen zu erhalten, ohne Ihre Zeit zu verschwenden"
+        }
+    }
+    ,
+    "pricing":{
+            "pricingheader":"Bestellen Sie PARSING jetzt",
+            "pricinglist":{
+                "list1":"Analysieren aller möglichen Informationen",
+                "list2":"2 Monate Update",
+                "list3":"Unterstützung"
+            },
+            "order":"Befehl"
+    }
+    ,
+    "footer":{
+        "footerLink1":"Nutzungsbedingungen",
+        "footerLink2":"Richtlinien und Datenschutz",
+        "contacts":"Kontakte",
+        "service":"Unsere Dienstleistungen",
+        "instagram":" Instagram analysieren",
+        "wildberris":"Wildbeeren analysieren",
+        "onlineShop":"Parsen von Online-Shops",
+        "pay":"Zahlungsarten"
+    }
+   
+
+
+}

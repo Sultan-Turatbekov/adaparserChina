@@ -1,0 +1,26 @@
+[
+        {
+            "title": "Amazon.com Parser",
+            "text": "Monitor prices of your products, gather comprehensive information from product cards, track discounts, analyze product popularity",
+            "img": "topStore/amazon.png",
+            "link": "#"
+        },
+        {
+            "title": "Yandex.Market Parser",
+            "text": "Perform parsing of one of the top product aggregators. You can parse products either by a list of search queries or from a specific category",
+            "img": "topStore/yandexmarket.png",
+            "link": "#"
+        },
+        {
+            "title": "AliExpress Parser",
+            "text": "Collect data from one of the most popular marketplaces, track prices, ratings, and the number of reviews for the products you're interested in",
+            "img": "topStore/Aliexpress.png",
+            "link": "#"
+        },
+        {
+            "title": "Ebay Parser",
+            "text": "Input a list of queries and get the data you need in a structured format. Monitor prices and gather all data from product cards",
+            "img": "topStore/ebay.png",
+            "link": "#"
+        }
+    ]

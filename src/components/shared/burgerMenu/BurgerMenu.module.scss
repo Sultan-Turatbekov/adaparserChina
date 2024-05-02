@@ -1,0 +1,106 @@
+.BurgerMenu_NavigationMenu{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    .NavigationMenuList{
+        display: flex;
+        flex-direction: column;
+    }
+    .NavigationMenuTrigger{
+        margin: 0 0 15px 0;
+        
+    }
+    .resurs{
+        position: relative;
+        left: -64px;
+    }
+    .NavigationMenuTrigge{
+        margin: 0 0 15px 0px;
+        padding: 10px 20px;
+        font-weight: 500;
+        border-radius: 5px;
+        &:hover{
+            background-color: #f3f9fb;
+        }
+    }
+    .NavigationMenuContent{
+        display: grid;
+        grid-template-columns: 100px 100px ;
+        
+        .Header__link{
+            padding: 15px 10px;
+            border-radius: 15px;
+            
+            .Header__link_subtitle{
+                font-weight: 400;
+                font-size: 12px;
+            }
+            .Header__link_img{
+                width: 30px;
+                height: 30px;
+                margin: auto;
+            }
+            &:hover{
+                box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            }
+        }      
+    }
+    .NavigationMenuContent2{
+        display: grid;
+        grid-template-columns: 100px 100px ;
+        .Header__link{
+            padding: 15px 10px;
+            border-radius: 15px;
+            .Header__link_subtitle{
+                font-weight: 400;
+                font-size: 12px;
+            }
+            .Header__link_img{
+                width: 30px;
+                height: 30px;
+                margin: auto;
+            }
+            &:hover{
+                box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            }
+        }
+    }
+}
+
+
+.BurgerMenu_button{
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.BurgerMenu{
+    display: none;
+    #BurgerMenu_icon{
+        font-size: 29px;
+        position: absolute;
+        top: 26px;
+        right: 55px;
+        color: #101820;
+    }
+}
+
+
+@media screen and (max-width: 1100px) {
+    .BurgerMenu{
+        display: block;
+
+    }
+}  
+
+@media screen and (max-width: 400px) {
+    .BurgerMenu{
+        #BurgerMenu_icon{
+            font-size: 29px;
+            position: absolute;
+            top: 26px;
+            right: 25px;
+        }
+    }
+}

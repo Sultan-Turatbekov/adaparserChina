@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+#root {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 1440px;
+  margin: 0 auto;
+}

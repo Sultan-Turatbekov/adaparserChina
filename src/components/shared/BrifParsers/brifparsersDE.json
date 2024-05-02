@@ -1,0 +1,21 @@
+[
+    {
+      "image": "brifImages/tiktokImage.png",
+      "header": "TikTok-Parser",
+      "title": "Erstellung eines TikTok-Parsers zur Datensammlung in eine Tabelle: Benutzername des Benutzers, Profillink, Benutzername, Anzahl der Follower und mehr.",
+      "link": "https://docs.google.com/document/d/1VM8DLJF4tlzUKM1-23w_nVympcqkeKMLN1x3pko2S7o/edit"
+    },
+    {
+      "image": "brifImages/yandex.png",
+      "header": "Yandex.Dzen-Parser",
+      "title": "Erstellung eines JS-Parsers für drei Arten von Yandex Dzen-Ergebnissen: Kanäle, Videos, Artikel - der Suchanfragen nach Links zu gefundenen Materialien und deren Parametern in einer CSV-Datei speichert",
+      "link": "https://docs.google.com/document/d/1aL5G80czxtZPV5Z1tbKpWnOdYJxS0QXBz8qj81wE4TQ/edit"
+    },
+    {
+      "image": "brifImages/a.jpeg",
+      "header": "Ahrefs-Drop-Such-Parser",
+      "title": "Voreinstellung zur Suche nach einzigartigen Domains in Google anhand von Schlüsselwörtern, Erfassen von Parametern und Verkehrsdaten mithilfe von Ahrefs-Parsen, Überprüfung indizierter Seiten und TOP5-Snippets in Google.",
+      "link": "https://docs.google.com/document/d/1hcY1GG_cN9upALf65ptUqQRewCqZMyLwIkFrV4IneTo/edit"
+    }
+  ]
+  

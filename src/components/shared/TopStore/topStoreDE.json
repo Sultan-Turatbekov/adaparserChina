@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Amazon.com-Parser",
+        "text": "Überwachen Sie die Preise Ihrer Produkte, sammeln Sie umfassende Informationen aus den Produktkarten, verfolgen Sie Rabatte, analysieren Sie die Beliebtheit von Produkten",
+        "img": "topStore/amazon.png",
+        "link": "#"
+    },
+    {
+        "title": "Yandex.Market-Parser",
+        "text": "Führen Sie das Parsing eines der Top-Aggregatoren für Produkte durch. Sie können Produkte sowohl nach einer Liste von Suchanfragen als auch aus einer bestimmten Kategorie parsen",
+        "img": "topStore/yandexmarket.png",
+        "link": "#"
+    },
+    {
+        "title": "AliExpress-Parser",
+        "text": "Sammeln Sie Daten von einem der beliebtesten Marktplätze, verfolgen Sie Preise, Bewertungen und die Anzahl der Bewertungen zu den von Ihnen interessierten Produkten",
+        "img": "topStore/Aliexpress.png",
+        "link": "#"
+    },
+    {
+        "title": "Ebay-Parser",
+        "text": "Geben Sie eine Liste von Anfragen ein und erhalten Sie die benötigten Daten in strukturierter Form. Überwachen Sie Preise und sammeln Sie alle Daten von Produktkarten",
+        "img": "topStore/ebay.png",
+        "link": "#"
+    }]

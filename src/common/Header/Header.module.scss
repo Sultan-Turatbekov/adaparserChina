@@ -1,0 +1,182 @@
+header{
+    .full_bleed {
+        box-shadow: 0 0 0 100vmax #101820;
+        clip-path: inset(0 -100vmax);
+    }
+    .header_container{
+        height: 80px;
+        display: flex;
+        position: relative;
+        width: 100%;
+        // background-color: #101820;
+
+        .NavigationMenuTrigger{
+            font-family: "Montserrat", sans-serif;
+            font-size: 17px;
+            background-color: rgba(0, 0, 128, 0);
+            color: #101820;
+            padding: 7px 20px;
+            border-radius: 5px;
+            transition: background-color 0.5s;
+            &:hover{
+                background-color: rgba(201, 191, 176, 0.427);
+                color: #393c3f;
+            }
+        }
+        .NavigationMenuTrigge{
+            font-size: 17px;
+            margin-right: 15px;
+            font-family: "Montserrat", sans-serif; 
+            padding: 7px 20px;
+            font-weight: 500;
+            border-radius: 5px;
+            color: #101820;
+            transition: background-color 0.5s;
+            &:hover{
+                background-color: rgba(201, 191, 176, 0.427);
+                color: #393c3f;
+            }
+        }
+        .NavigationMenuTrigg{
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+    
+        .header_logoContainer{
+            width: 200px;
+            height: 80px;
+            margin-right: 50px;
+            margin-left: 10px;
+            img{
+                position: relative;
+                top: 30px;
+            }
+        }
+        .NavigationMenuItem{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+        }
+        .NavigationMenuContent{
+            display: grid;
+            grid-template-columns: 350px 350px 380px;
+            grid-template-rows: 150px 160px ;
+            gap: 30px;
+            padding: 25px;
+            .Header_link{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 15px;
+                border-radius: 15px;
+                .Header_link_subtitle{
+                    font-weight: 700;
+                    font-size: 20px;
+                }
+                .Header_link_img{
+                    width: 50px;
+                    height: 50px;
+                }
+                &:hover{
+                    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+                }
+            }      
+        }
+        .NavigationMenuContent2{
+            display: grid;
+            grid-template-columns: 330px 330px;
+            grid-template-rows: 200px ;
+            gap: 30px;
+            padding: 25px;
+            .Header_link{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 25px 15px;
+                border-radius: 15px;
+                .Header_link_subtitle{
+                    font-weight: 700;
+                    font-size: 20px;
+                }
+                .Header_link_img{
+                    width: 50px;
+                    height: 50px;
+                }
+                &:hover{
+                    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+                }
+            }
+        }
+    }
+    
+    
+}
+.header_button{
+    position: absolute;
+    right: 50px;
+    top: 14px;
+    padding: 13px 10px;
+    border-radius: 15px;
+    font-weight: 700;
+    color: #101820;
+    transition: background-color 0.5s;
+    background-color: rgba(201, 191, 176, 0.427);
+    color: #393c3f;
+    &:hover{
+        color: rgb(50, 55, 59);
+        background-color: rgba(147, 140, 129, 0.427);
+
+    }
+}
+.header_logo_media{
+    width: 200px;
+    display: none;
+}
+
+@media screen and (max-width: 1100px) {
+    .NavigationMenu{
+        display: none;
+    }
+    header{
+        display: flex;
+        position: relative;
+    
+
+    .header_button{
+        position: absolute;
+        right: 120px;
+    }
+    }
+    .header_logo_media{
+        width: 250px;
+        display: block;
+        top: 25px;
+        position: relative;
+        left: 30px;
+    }
+}  
+
+@media screen and (max-width: 600px) {
+    header{
+        .header_button{
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: 400px) {
+    header{
+        .header_button{
+            display: none;
+        }
+    }
+    .header_logo_media{
+        width: 200px;
+        top: 29px;
+        position: relative;
+        left: 10px;
+    }
+    
+}
+

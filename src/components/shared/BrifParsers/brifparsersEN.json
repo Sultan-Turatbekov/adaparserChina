@@ -1,0 +1,21 @@
+[
+    {
+      "image": "brifImages/tiktokImage.png",
+      "header": "TikTok Parser",
+      "title": "Creating a TikTok parser for collecting data into a table: user's username, profile link, username, number of followers, and more.",
+      "link": "https://docs.google.com/document/d/1VM8DLJF4tlzUKM1-23w_nVympcqkeKMLN1x3pko2S7o/edit"
+    },
+    {
+      "image": "brifImages/yandex.png",
+      "header": "Yandex.Dzen Parser",
+      "title": "Creating a JS parser for three types of Yandex Dzen results: channels, videos, articles - which saves links to found materials and their parameters in a CSV file based on search queries.",
+      "link": "https://docs.google.com/document/d/1aL5G80czxtZPV5Z1tbKpWnOdYJxS0QXBz8qj81wE4TQ/edit"
+    },
+    {
+      "image": "brifImages/a.jpeg",
+      "header": "Ahrefs Drop Search Parser",
+      "title": "Preset for searching unique domains in Google by keywords, obtaining parameters and traffic data using Ahrefs parsers, checking indexed pages, and TOP5 snippets in Google.",
+      "link": "https://docs.google.com/document/d/1hcY1GG_cN9upALf65ptUqQRewCqZMyLwIkFrV4IneTo/edit"
+    }
+  ]
+  

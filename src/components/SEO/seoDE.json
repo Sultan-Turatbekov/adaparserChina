@@ -1,0 +1,62 @@
+[
+    {
+        "img": "searchParsing/link.svg",
+        "title": "Links, Anker und Auszüge",
+        "text": "Massenparsen von organischen Suchergebnissen. Als Ergebnis erhalten Sie ein strukturiertes Dokument."
+    },
+    {
+        "img": "searchParsing/addParsing.png",
+        "title": "Analysieren von Werbeblöcken",
+        "text": "Sammlung aller Daten aus Werbeblöcken, einschließlich Position auf der Suchergebnisseite."
+    },
+    {
+        "img": "searchParsing/parsinGeo.png",
+        "title": "Analyse nach GEO",
+        "text": "Analyse von Ahrefs-Rang und Domainbewertung, Backlinks und Domains, TOP100-Backlinks."
+    },
+    {
+        "img": "searchParsing/competitionKey.svg",
+        "title": "Wettbewerb der Schlüsselwörter",
+        "text": "Durch das Parsen erhält der Benutzer Daten zur Anzahl der Ergebnisse in den Suchergebnissen für die Abfrage."
+    },
+    {
+        "img": "searchParsing/blokParsing.svg",
+        "title": "Analysieren von verwandten Keywords-Blöcken",
+        "text": "Parsen von Blöcken mit verwandten Suchanfragen und Möglichkeit zum Parsen in die Tiefe."
+    },
+    {
+        "img": "searchParsing/mobileAndDescktop.png",
+        "title": "Mobile und Desktop-Suchergebnisse",
+        "text": "Die Ergebnisse unterscheiden sich je nach Gerät; A-Parser unterstützt beide Optionen."
+    },
+    {
+        "img": "searchParsing/saportOperator.png",
+        "title": "Unterstützung für Suchoperatoren",
+        "text": "Unterstützung für alle Suchoperatoren zur Erweiterung der Parsfähigkeiten."
+    },
+    {
+        "img": "searchParsing/maxdeep.png",
+        "title": "Maximale Parse-Tiefe",
+        "text": "Navigation durch alle Seiten der Suchergebnisse und automatisches Umgehen von Beschränkungen zur Erfassung aller Ergebnisse."
+    },
+    {
+        "img": "searchParsing/newsParsing.png",
+        "title": "Analysieren von Nachrichtenergebnissen",
+        "text": "Sammlung solcher Daten: Link zum Artikel, Titel, kurzer Inhalt der Nachricht und Aktualisierungsdatum."
+    },
+    {
+        "img": "searchParsing/toch.svg",
+        "title": "Tippfehlererkennung",
+        "text": "Der Parser bestimmt, ob die Suchmaschine die empfangene Abfrage als Tippfehler betrachtet hat."
+    },
+    {
+        "img": "searchParsing/sortedBy.png",
+        "title": "Ergebnisse nach Datum sortieren",
+        "text": "Die Funktion zur Sortierung nach Datum steht für das Sammeln der aktuellsten Suchergebnisse zur Verfügung."
+    },
+    {
+        "img": "searchParsing/vozmo.png",
+        "title": "Umgehungsmöglichkeit für Captcha",
+        "text": "Unterstützung für alle gängigen Erkennungsdienste sowie Integration mit XEvil und CapMonster."
+    }
+]

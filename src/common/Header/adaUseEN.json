@@ -1,0 +1,26 @@
+[
+    {
+        "img": "headerImages/seo.png",
+        "subtitle": "SEO specialists and studios",
+        "text": "Collecting SEO metrics, search queries and suggestions, all data from search results",
+        "link": "seo"
+    },
+    {
+        "img": "headerImages/bisness.png",
+        "subtitle": "Business and freelancers",
+        "text": "Automation of routine processes. Creating your own SaaS services",
+        "link": "business"
+    },
+    {
+        "img": "headerImages/onlineStore.png",
+        "subtitle": "Online stores",
+        "text": "Parsing marketplaces and online stores, price monitoring, filling your own stores",
+        "link": "onlinestores"
+    },
+    {
+        "img": "headerImages/marketings.png",
+        "subtitle": "Marketers and analysts",
+        "text": "Market research, search engine results, data collection",
+        "link": "marketers"
+    }
+]

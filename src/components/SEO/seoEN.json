@@ -1,0 +1,62 @@
+[
+    {
+        "img": "searchParsing/link.svg",
+        "title": "Links, Anchors, and Snippets",
+        "text": "Mass parsing of organic search results. As a result, you receive a structured document"
+    },
+    {
+        "img": "searchParsing/addParsing.png",
+        "title": "Parsing Advertising Blocks",
+        "text": "Collection of all data from advertising blocks, including position on the search results page"
+    },
+    {
+        "img": "searchParsing/parsinGeo.png",
+        "title": "Parsing by GEO",
+        "text": "Parsing Ahrefs rank and domain rating, backlinks and domains, TOP100 backlinks"
+    },
+    {
+        "img": "searchParsing/competitionKey.svg",
+        "title": "Competition of Keywords",
+        "text": "As a result of parsing, the user receives data on the number of results in the search results for the query"
+    },
+    {
+        "img": "searchParsing/blokParsing.svg",
+        "title": "Related Keywords Block Parsing",
+        "text": "Parsing blocks with related search queries and the ability to parse them in depth"
+    },
+    {
+        "img": "searchParsing/mobileAndDescktop.png",
+        "title": "Mobile and Desktop Search Results",
+        "text": "Results differ depending on the device, A-Parser supports both options"
+    },
+    {
+        "img": "searchParsing/saportOperator.png",
+        "title": "Support for Search Operators",
+        "text": "Support for all search operators to expand parsing capabilities"
+    },
+    {
+        "img": "searchParsing/maxdeep.png",
+        "title": "Maximum Parsing Depth",
+        "text": "Navigation through all pages of the search results and automatic bypass of restrictions to obtain all results"
+    },
+    {
+        "img": "searchParsing/newsParsing.png",
+        "title": "Parsing News Results",
+        "text": "Collection of such data: link to the article, title, brief content of the news, and update date"
+    },
+    {
+        "img": "searchParsing/toch.svg",
+        "title": "Typo Detection",
+        "text": "The parser determines whether the search engine considered the received query as a typo"
+    },
+    {
+        "img": "searchParsing/sortedBy.png",
+        "title": "Sorting Results by Date",
+        "text": "The function of sorting by date is available for collecting the most current search results"
+    },
+    {
+        "img": "searchParsing/vozmo.png",
+        "title": "Captcha Bypass Capability",
+        "text": "Support for all popular recognition services, as well as integration with XEvil and CapMonster"
+    }
+]

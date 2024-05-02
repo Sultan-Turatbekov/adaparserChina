@@ -1,0 +1,26 @@
+[
+    {
+        "img": "headerImages/seo.png",
+        "subtitle": "SEO-Spezialisten und Agenturen",
+        "text": "Sammlung von SEO-Metriken, Suchanfragen und Vorschlägen, alle Daten aus den Suchergebnissen",
+        "link": "seo"
+    },
+    {
+        "img": "headerImages/bisness.png",
+        "subtitle": "Unternehmen und Freelancer",
+        "text": "Automatisierung von Routineprozessen. Erstellung eigener SaaS-Dienste",
+        "link": "business"
+    },
+    {
+        "img": "headerImages/onlineStore.png",
+        "subtitle": "Online-Shops",
+        "text": "Analyse von Marktplätzen und Online-Shops, Preisüberwachung, Befüllung eigener Geschäfte",
+        "link": "onlinestores"
+    },
+    {
+        "img": "headerImages/marketings.png",
+        "subtitle": "Marketingexperten und Analysten",
+        "text": "Marktforschung, Suchmaschinenergebnisse, Datensammlung",
+        "link": "marketers"
+    }
+]

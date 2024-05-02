@@ -1,0 +1,21 @@
+.schemeOfWork_info_conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px 0 80px;
+    .schemeOfWork_info{
+        width: 300px;
+        padding: 10px 20px;
+        border-radius: 15px;
+        margin-top: 30px;
+        box-shadow: rgba(0, 0, 0, 0.041) 0px 4px 6px -1px, rgba(0, 0, 0, 0.041) 0px 2px 4px -1px;
+        .schemeOfWork_info_title{
+            font-size: 22px;
+            font-weight: 600;
+            margin: 10px 0 5px;
+        }
+    }
+}
+
+
+
