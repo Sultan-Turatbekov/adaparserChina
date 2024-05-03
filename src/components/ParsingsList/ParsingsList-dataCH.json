@@ -6,22 +6,22 @@
     "data": [
       {
         "img": "allParsingsIco/google_ico.png",
-        "標題": "SE::Google",
+        "title": "SE::Google",
         "description": "Google 搜尋結果解析器"
       },
       {
         "img": "allParsingsIco/yandex_ico.png",
-        "標題": "SE::Yandex",
+        "title": "SE::Yandex",
         "description": "Yandex 搜尋結果解析器"
       },
       {
         "img": "allParsingsIco/bing_ico.png",
-        "標題": "SE::Bing",
+        "title": "SE::Bing",
         "description": "Bing 搜尋結果解析器"
       },
       {
         "img": "allParsingsIco/youtube_ico.png",
-        "標題": "SE::YouTube",
+        "title": "SE::YouTube",
         "description": "YouTube 搜尋結果解析器"
       },
       {
@@ -78,7 +78,7 @@
         },
         {
           "img": "allParsingsIco/dns_ico.png",
-          "標題": "網路::DNS",
+          "title": "網路::DNS",
           "description": "解析器將網域解析為 IP 位址"
         }
       ]
@@ -144,7 +144,7 @@
     "data": [
       {
         "img": "allParsingsIco/youtube_ico.png",
-        "標題": "SE::YouTube::影片",
+        "title": "SE::YouTube::影片",
         "description": "YouTube 影片資料解析器"
       },
       {
@@ -159,7 +159,7 @@
       },
       {
         "img": "allParsingsIco/pinterest_ico.png",
-        "標題": "SE::Pinterest",
+        "title": "SE::Pinterest",
         "description": "Pinterest 搜尋結果解析器"
       },
       {
@@ -184,7 +184,7 @@
       },
       {
         "img": "allParsingsIco/ping_ico.jpeg",
-        "標題": "SEO::Ping",
+        "title": "SEO::Ping",
         "description": "批次發送 Ping 請求"
       },
       {

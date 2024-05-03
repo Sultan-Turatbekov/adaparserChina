@@ -1,16 +1,16 @@
 import { Link } from "react-router-dom";
 import styles from './Footer.module.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {contactLinks, contacts, payment, paymentMethods, services} from "@/src/common/Footer/footerData.ts";
+import {contactLinks, contacts, payment, paymentMethods} from "@/src/common/Footer/footerData.ts";
 import {useTranslation} from 'react-i18next';
 export const Footer = () => {
-    const {t,i18n}=useTranslation();
+    const {t}=useTranslation();
     
     return (
         <footer className={`${styles.full_bleed} bg-dark_full p-4 md:py-10 lg:py-16 gap-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 text-white`}>
             <div className={`mt-2`}>
                 <div className={`max-w-[200px] mb-4`}>
-                    <img width={`100%`} src='logo.png' alt="logo"/>
+                    <img width={`100%`} src='/logo.png' alt="logo"/>
                 </div>
                 <p className={`mb-10`}>&copy; 2023 All Rights Reserved</p>
                 <div className={`flex flex-col gap-1`}>

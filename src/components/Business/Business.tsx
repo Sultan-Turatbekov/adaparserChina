@@ -5,13 +5,13 @@ import styles from "./styles.module.scss"
 import { useTranslation } from "react-i18next"
 
 function Business() {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <div>
         <AllEnterLink dataJson={businessDataJson}/>
         <div className={styles.services_reverse}>
     <div className={styles.services_imgConteiner}>
-          <img src="business/replaceEntireTeam.jpg" alt="" />
+          <img src="/Business/replaceEntireTeam.jpg" alt="" />
       </div>
       <div>
           <h3 className={styles.services_title}>{t("business.titles.title1")}</h3>
@@ -27,13 +27,13 @@ function Business() {
           <p className={styles.services_text}>{t("business.descriptions.desc2")}</p>
       </div>
       <div className={styles.services_imgConteiner}>
-          <img src="business/better.png" alt="" />
+          <img src="/Business/better.png" alt="" />
       </div>
     </div>
 
     <div className={styles.services_reverse}>
     <div className={styles.services_imgConteiner}>
-          <img src="business/costParsing.png" alt="" />
+          <img src="/Business/costParsing.png" alt="" />
       </div>
       <div>
           <h3 className={styles.services_title}></h3>

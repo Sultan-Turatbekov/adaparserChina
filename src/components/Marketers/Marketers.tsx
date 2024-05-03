@@ -5,13 +5,13 @@ import {AllParsings} from "@/src/components/shared/AllParsings/AllParsing.tsx";
 import styles from "./styles.module.scss"
 import { useTranslation } from "react-i18next";
 function Marketers() {
-  const [t,i18n] =useTranslation();
+  const [t] =useTranslation();
   return (
     <div>
         <AllEnterLink dataJson={marketersDataJson}/>
         <div className={styles.services_reverse}>
     <div className={styles.services_imgConteiner}>
-          <img src="marketers/marketers1.png" alt="" />
+          <img src="/marketers/marketers1.png" alt="" />
       </div>
       <div>
           <h3 className={styles.services_title}>{t("marketers.titles.title1")}</h3>
@@ -29,7 +29,7 @@ function Marketers() {
           <p className={styles.services_text}>{t("marketers.texts.text6")}</p> 
       </div>
       <div className={styles.services_imgConteiner}>
-          <img src="marketers/marketers2.jpg" alt="" />
+          <img src="/marketers/marketers2.jpg" alt="" />
       </div>
     </div>
         <AllParsings/>

@@ -1,19 +1,12 @@
-// import dataEn from './dataEn.json';
-// import dataGr from './dataGr.json';
 import { AllParsingsType } from "@/src/types/allParsingsType.ts";
 import { ParsingsListItem } from "@/src/components/shared/ParsingsListItems/ParsingsListItem.tsx";
 import {Link} from "react-router-dom";
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 export const AllParsings = () => {
-    const [jsonData, setJsonData] = useState<AllParsingsType[]>([]);
-    const [t,i18n]=useTranslation();
-    // useEffect(() => {
-    //     const nextLocal = localStorage.getItem('nextlocal');
-    //     const parsedData = nextLocal === 'gr' ? dataGr : dataEn;
-    //     setJsonData(parsedData);
-    //     window.location.reload()
-    // }, []); 
+    const [jsonData] = useState<AllParsingsType[]>([]);
+    const [t]=useTranslation();
+
 
     return (
         <section className={`py-10`}>

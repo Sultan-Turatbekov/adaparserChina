@@ -5,14 +5,14 @@ import { Pricing } from "../shared/Pricing/Pricing"
 import styles from "./Services.module.scss"
 import {useTranslation} from 'react-i18next';
 function Services() {
-  const {t,i18n}=useTranslation();
+  const {t}=useTranslation();
   return (
     <>
     <AllEnterLink dataJson={servicesDataJson}/>
 
     <div className={styles.services_reverse}>
     <div className={styles.services_imgConteiner}>
-          <img src="servicesPage/servicesPage3.png" alt="" />
+          <img src="/servicesPage/servicesPage3.png" alt="" />
       </div>
       <div>
           <h3 className={styles.services_title}>{t("services.block1.header")}</h3>
@@ -28,13 +28,13 @@ function Services() {
           <p className={styles.services_text}>{t("services.block2.title")}</p>
       </div>
       <div className={styles.services_imgConteiner}>
-          <img src="servicesPage/servicesPage2.png" alt="" />
+          <img src="/servicesPage/servicesPage2.png" alt="" />
       </div>
     </div>
 
     <div className={styles.services_reverse}>
     <div className={styles.services_imgConteiner}>
-          <img src="servicesPage/servicesPage3.svg" alt="" />
+          <img src="/servicesPage/servicesPage3.svg" alt="" />
       </div>
       <div>
           <h3 className={styles.services_title}>{t("services.block3.header")}</h3>

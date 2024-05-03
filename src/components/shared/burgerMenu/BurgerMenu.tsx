@@ -26,7 +26,7 @@ import {
   } from "@/src/components/ui/sheet"
 
 export const BurgerMenu = () => {
-    const {t,i18n}=useTranslation();
+    const {i18n}=useTranslation();
     const header = i18n.language === 'en' ? adaUseEN : adaUseCH;
     const resource = i18n.language === 'en' ? resourcesEN : resourcesCH;
     return(

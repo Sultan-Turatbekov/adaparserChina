@@ -98,12 +98,6 @@ import {
                     <img src="/logoWi.svg" alt="" />
                 </div>
 
-
-
-
-                
-
-                
                 <div className="mt-[19px]">
                 <DropdownMenu>
                     <DropdownMenuTrigger asChild>

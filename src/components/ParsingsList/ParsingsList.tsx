@@ -5,13 +5,13 @@ import { AllParsingsType } from "@/src/types/allParsingsType.ts";
 import {ParsingsListItem} from "@/src/components/shared/ParsingsListItems/ParsingsListItem.tsx";
 import { useTranslation } from "react-i18next"
 export const ParsingsList = () => {
-    const { t, i18n } = useTranslation();
+    const { i18n } = useTranslation();
     const parsinglist = i18n.language === 'en' ? parsingEN : parsingCH;
     return (
         <div>
             {
-                parsinglist.map((item: ParsingListTypes) => (
-                    <div className={`py-10`}>
+                parsinglist.map((item: ParsingListTypes, index) => (
+                    <div className={`py-10`} key={index}>
                         <div className={`flex flex-col md:flex-row items-center justify-between mb-10`}>
                             <h2 className={`font-bold text-5xl max-w-[425px]`}>{item.title}</h2>
                             <p className={`max-w-[510px] text-[18px] self-end`}>{item.specification}</p>

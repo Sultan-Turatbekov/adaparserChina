@@ -4,7 +4,7 @@ import {faPlus} from "@fortawesome/free-solid-svg-icons";
 import {ParsingsListItemProps} from "@/src/types/propsType/ParsingsListItemProps.ts";
 import { useTranslation } from "react-i18next"; 
 export const ParsingsListItem = ({item}:ParsingsListItemProps) =>{
-    const [t,i18n]=useTranslation();
+    const [t]=useTranslation();
     return (
         <div className={`max-w-[400px] w-full py-8 px-7 flex flex-col shadow-xl rounded-[6px] mx-auto`}>
             <div className={`flex justify-between items-center mb-10 max-h-[50px] h-full`}>

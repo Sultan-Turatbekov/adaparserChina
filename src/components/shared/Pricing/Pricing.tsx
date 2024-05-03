@@ -1,7 +1,7 @@
 import {Button} from "@/src/components/ui/button.tsx";
 import {useTranslation} from 'react-i18next';
 export const Pricing = () => {
-    const {t,i18n}=useTranslation();
+    const {t}=useTranslation();
     return (
         <section className={`my-10`}>
             <div className={`bg-gradient-to-br from-sky-300 to-sky-900 rounded-xl p-4 md:py-12`}>
